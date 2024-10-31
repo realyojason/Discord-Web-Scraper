@@ -1,0 +1,1 @@
+pip install -U discord requests beautifulsoup4 python-dotenv
